@@ -1,0 +1,5 @@
+interface:
+  display_name: "CMS 메일 답장 초안"
+  short_description: "Gmail 요청을 분석하고 규칙에 맞는 답장 초안을 저장"
+  default_prompt: "$cms-mail-reply를 사용해 최근 메일의 요청을 분석하고 답장규칙에 맞는 초안을 검토 후 Gmail 임시보관함에 저장해 주세요."
+
